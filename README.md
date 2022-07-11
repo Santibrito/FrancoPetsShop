@@ -2,5 +2,5 @@
 
 
 <h2>Nuestro Mockup<h2>
-<img src="https://ibb.co/mFYcDsq">
+  <a href="https://ibb.co/mFYcDsq">Ver diseño haciendo click aqui!</a>
 
